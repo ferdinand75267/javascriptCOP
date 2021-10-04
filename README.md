@@ -1,0 +1,2 @@
+# javascriptCOP
+javascript玩笑
